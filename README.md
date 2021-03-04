@@ -48,5 +48,4 @@ Year(DirectorDob) = @BirthYear
 
 Figure description: This UDF will display all birthdays of the director that are input. This would be helpful to understand the patterns of film and era of a particular director or film.
 
-# Module07-IntrotoDatabases
 
